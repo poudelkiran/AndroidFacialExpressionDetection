@@ -1,0 +1,29 @@
+[33mcommit d16e59b8ec2a4251e1eed4c9ce54502a56eefa38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kiran poudel <kiran@ebperals-local.com>
+Date:   Fri Nov 16 10:42:25 2018 +0545
+
+    Labels on multiple faces at same time
+
+[33mcommit 6cede325e6522ed2c62bc6b0c4bf39c92fcf3b1f[m
+Author: kiran poudel <kiran@ebperals-local.com>
+Date:   Fri Nov 16 08:45:08 2018 +0545
+
+    Face Cropped Problem Solved
+
+[33mcommit e4678df293cb6f4f21cc5bc119a5dfa30238581d[m
+Author: kiran poudel <kiran@ebperals-local.com>
+Date:   Thu Nov 15 16:29:33 2018 +0545
+
+    Code Managed
+
+[33mcommit e5bddd8535d3dd96393c299204ba56faec46667e[m
+Author: kiran poudel <kiran@ebperals-local.com>
+Date:   Thu Nov 15 14:24:52 2018 +0545
+
+    Feed the cropped Face to the classifier
+
+[33mcommit 9b5c7474db5adbd8fd8f905bf9cc4a86feef3797[m
+Author: kiran poudel <kiran@ebperals-local.com>
+Date:   Wed Nov 14 15:25:39 2018 +0545
+
+    Face cropped
